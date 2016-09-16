@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  *
  * @author Leticia
+ * // testando
  */
 public class Aluno {
     private int codigo;
